@@ -8,7 +8,7 @@ A sleek, animated, and fully responsive login/signup interface built using **HTM
 
 Login![Screenshot 2025-06-06 162125](https://github.com/user-attachments/assets/caa60e66-7fc9-40fa-a4f6-4e31a4ab4b02)
   
-Sign Up[Screenshot 2025-06-06 162136](https://github.com/user-attachments/assets/b8428b9c-dd24-4fa1-b3b8-ec453b738108)
+Sign Up [Screenshot 2025-06-06 162136](https://github.com/user-attachments/assets/b8428b9c-dd24-4fa1-b3b8-ec453b738108)
 
 
 
